@@ -1,0 +1,5 @@
+nltk
+collections
+re
+matplotlib
+numpy
